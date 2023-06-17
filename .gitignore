@@ -1,0 +1,5 @@
+node_modules/
+debug/
+prisma/migrations/
+.env
+*.tgz
